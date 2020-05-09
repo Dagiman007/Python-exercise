@@ -1,0 +1,23 @@
+article: Buzz_Aldrin
+requests: 2183
+bytes_served: 71437760
+
+article: Isaac_Newton
+requests: 25810
+bytes_served: 1680833779
+
+article: Main_Page
+requests: 559944
+bytes_served: 9458944804
+
+article: Olympic_Games
+requests: 1173
+bytes_served: 147591514
+
+article: Man_united
+requests: 34569
+bytes_served: 14759151400
+
+article: Mathematics
+requests: 11007
+bytes_served: 1475009878
